@@ -41,8 +41,8 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => env('DB_HOST', 'databases.000webhost.com'),
-            'port' => env('DB_PORT', '3306'),
+            'host' => env('DB_HOST', '145.14.144.199'),
+            'port' => env('DB_PORT', '21'),
             'database' => env('DB_DATABASE', 'id4756165_fildesver'),
             'username' => env('DB_USERNAME', 'id4756165_farm'),
             'password' => env('DB_PASSWORD', '1234567890'),
